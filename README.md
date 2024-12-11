@@ -31,7 +31,7 @@ The MultiSig wallet allows multiple owners to collectively manage funds and exec
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/multisig-wallet.git
+git clone https://github.com/YourGuyD3v/MultiSig-Wallet.git
 cd multisig-wallet
 ```
 
