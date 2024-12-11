@@ -23,7 +23,7 @@ The MultiSig wallet allows multiple owners to collectively manage funds and exec
 ## Prerequisites
 
 - **Foundry:** Install Foundry by following the [Foundry installation guide](https://book.getfoundry.sh/getting-started/installation).
-- **Solidity Compiler:** Ensure the Solidity compiler version `^0.8.13` is installed.
+- **Solidity Compiler:** Ensure the Solidity compiler version `^0.8.25` is installed.
 
 ---
 
